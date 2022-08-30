@@ -1,4 +1,4 @@
-# demo
+# Autsys Demo
 
 ## Charts
 
@@ -15,10 +15,6 @@
 ## Notifications / App Bar
 
 ![gif](./app-bar-user-notifications.gif)
-
-## Language
-
-![mov](./dark_language.mov)
 
 ## Carousel - Dark
 
