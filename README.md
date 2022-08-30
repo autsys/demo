@@ -1,9 +1,17 @@
 # demo
 
-[App Bar & Notifications](./app-bar-user-notifications.gif)
+## Charts
 
-[Charts](./charts.gif)
+![gif](./charts.gif)
 
-[Landing](./landing.gif)
+## Landing
 
-[Menus & Profiles](./menu-user-profile.gif)
+![gif](./landing.gif)
+
+## Menu / User Profile
+
+![gif](./menu-user-profile.gif)
+
+## Notifications / App Bar
+
+![gif](./app-bar-user-notifications.gif)
