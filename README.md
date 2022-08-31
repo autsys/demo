@@ -1,8 +1,8 @@
 # Autsys Demo
 
-## Thousands Of Options
+## Custom UI Design
 
-![png](./multi-image.png)
+![png](./multi.png)
 
 ## Charts
 
